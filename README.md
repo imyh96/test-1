@@ -13,3 +13,5 @@ function add(x, y)
   return x + y;
 }
 ```
+
+![coding image](./images/coding.jpg)
